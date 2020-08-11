@@ -1,0 +1,74 @@
+{
+  "file1Domain": "http://file1.jobkorea.co.kr",
+  "imageDomain": "//imgs.jobkorea.co.kr/img3",
+  "isLogin": false,
+  "resumeNo": 0,
+  "newItems": [
+    {
+      "corpId": "lvmhpc",
+      "corpName": "엘브이엠에치코스메틱스(유)",
+      "gno": 32426268,
+      "giNo": 36050992,
+      "giTitle": "[DIOR/디올] 프로모션팀 스킨케어 엑스퍼트 모집",
+      "memberTypeCode": "C",
+      "isScraped": false,
+      "isRead": false,
+      "bizType": 1000016,
+      "workLocal": "서울 종로구 외",
+      "image": "http://file1.jobkorea.co.kr//banner/images/100001602.jpg"
+    }
+  ],
+  "recmItems": [
+    {
+      "corpId": "dgmsedu",
+      "corpName": "지엠에스에듀영재교육",
+      "gno": 32421929,
+      "giNo": 36046971,
+      "giTitle": "학원 데스크 상담직 신입/경력 채용",
+      "memberTypeCode": "C",
+      "isScraped": false,
+      "isRead": false,
+      "bizType": 1000023,
+      "workLocal": "서울 강남구",
+      "image": "http://file1.jobkorea.co.kr//banner/images/100002302.jpg"
+    }
+  ],
+  "additionaltems": [
+    {
+      "corpId": "nahmks",
+      "corpName": "엔치과의원",
+      "gno": 32418683,
+      "giNo": 36044148,
+      "giTitle": "[강남역] 엔치과의원 하반기 각 부문별 신입/경력직 채용",
+      "memberTypeCode": "C",
+      "isScraped": false,
+      "isRead": false,
+      "bizType": 1000025,
+      "workLocal": "서울 서초구",
+      "image": "//imgs.jobkorea.co.kr/img3/_thumb/286x0/Company/Visual_Co/images/2010/9/JK_CO_nahmks_1.jpg"
+    }
+  ],
+  "scrapItems": [],
+  "items": {
+    "file1Domain": "http://file1.jobkorea.co.kr",
+    "imageDomain": "//imgs.jobkorea.co.kr/img3",
+    "isLogin": false,
+    "resumeNo": 0,
+    "newItems": [
+      {
+        "corpId": "lvmhpc",
+        "corpName": "엘브이엠에치코스메틱스(유)",
+        "gno": 32426268,
+        "giNo": 36050992,
+        "giTitle": "[DIOR/디올] 프로모션팀 스킨케어 엑스퍼트 모집",
+        "memberTypeCode": "C",
+        "isScraped": false,
+        "isRead": false,
+        "bizType": 1000016,
+        "workLocal": "서울 종로구 외",
+        "image": "http://file1.jobkorea.co.kr//banner/images/100001602.jpg"
+      }
+    ],
+    "scrapItems": []
+  }
+}
